@@ -1,5 +1,5 @@
-A Simple Implementation of Actor-Critic Trained with Evolutionary Strategies
-This repository contains a PyTorch implementation of an Actor-Critic model trained from scratch using Evolutionary Strategies (ES) on the CartPole-v1 environment.
+A Simple Implementation of Policy net Trained with Evolutionary Strategies
+This repository contains a PyTorch implementation of a Policy net trained from scratch using Evolutionary Strategies (ES) on the CartPole-v1 environment.
 
 Key Features:
 -Custom-built Actor network with configurable hidden layers and LayerNorm
